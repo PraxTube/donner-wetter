@@ -1,5 +1,5 @@
 [package]
-name = "wetter-cli"
+name = "donner-wetter"
 version = "0.1.0"
 edition = "2021"
 
